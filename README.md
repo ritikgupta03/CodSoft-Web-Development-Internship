@@ -1,4 +1,3 @@
-# Internship-Projects-2025-26
 # Internship Projects 2025-26 🚀
 
 This repository contains all the internship projects completed during the 2025–26 academic year.  
